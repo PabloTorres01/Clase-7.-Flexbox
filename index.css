@@ -1,0 +1,19 @@
+.container {
+    height: 100%;
+    width: 100%;
+    background-color: #1E4639;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadrados {
+    height: 200px;
+    width: 200px;
+}
+
+.c-1 {background-color: black;}
+.c-2 {background-color: red;}
+.c-3 {background-color: yellow;}
+
+
